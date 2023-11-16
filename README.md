@@ -1,46 +1,18 @@
-# Getting Started with Create React App
+Данное приложение является результатом выполнения ДЗ №1 на позицию React-стажера в
+компанию "YLAB Development"
+Приложение разработано на TypeScript с использованием библиотек React и Redux Toolkit.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Приложение запускается командой 'npm run serve'
 
-## Available Scripts
+Ссылка на github-pages:
+https://sinbiotik.github.io/auth/
 
-In the project directory, you can run:
+Текст задания:
 
-### `npm start`
+"
+  Попробуйте сделать удобную и красивую форму аутентификации через почту и пароль — но без готовых библиотек компонентов. Нужно продумать отправку почты/пароля на сервер, но сервер можно не делать, просто замокав `fetch()`. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  Можно использовать любой фреймворк или сделать без фреймворка вовсе. Результат выложить на git, в идеале чтобы его сразу можно было бы посмотреть через github pages или vercel (делается буквально в пару кликов)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+  Это задание служит обзором ваших имеющихся навыков и способности к обучению, оно не влияет на итоговую оценку, выполните задание по мере ваших знаний и понимания задачи, если не умеете работать с git и не смогли разобраться, пришлите в архиве, не разобрались как задеплоить, сделайте несколько скриншотов, не разобрались как мокать методы, напишите свою функцию для эмуляции работы с сервером, умеете делать responsive, сделайте, если хотите продемонстрировать эти знаний.
+"
